@@ -1,2 +1,2 @@
 # regressaomultipla
-Identificando relações entre variáveis de Margem Líquida e ROA para realizar inferências sobre o Lucro por Ação da empresa Eletrobras.
+Identificando relações entre variáveis Margem Líquida e Liquidez Corrente para realizar inferências sobre o ROA da empresa Eletrobras.
